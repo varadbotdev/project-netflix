@@ -1,4 +1,5 @@
 # Netflix Clone
+LIVE PROJECT LINK : https://varadbotdev.github.io/project-netflix.github.io
 
 This project is part of the AICTE internship program from IBM conducted by SkillsBuild, focusing on frontend development. The internship duration was 6 weeks, during which I worked on developing a Netflix clone.
 
