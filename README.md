@@ -22,7 +22,7 @@ To run the Netflix clone locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-git clone https://github.com/varadbotdev/netflix-ibmproject.github.io
+git clone https://github.com/varadbotdev/project-netflix.github.io
 
 2. Navigate to the project directory:
 
